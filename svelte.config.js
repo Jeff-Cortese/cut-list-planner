@@ -12,7 +12,8 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: '/cut-list-planner'
+			base: '/cut-list-planner',
+			relative: true
 		}
 	}
 };
